@@ -1,0 +1,15 @@
+D:\抓取服务\DataCatchingPro\HY.DataCatching\XieHuiImport\bin\Debug\XieHuiImport.exe.config
+D:\抓取服务\DataCatchingPro\HY.DataCatching\XieHuiImport\bin\Debug\XieHuiImport.exe
+D:\抓取服务\DataCatchingPro\HY.DataCatching\XieHuiImport\bin\Debug\XieHuiImport.pdb
+D:\抓取服务\DataCatchingPro\HY.DataCatching\XieHuiImport\obj\Debug\XieHuiImport.exe
+D:\抓取服务\DataCatchingPro\HY.DataCatching\XieHuiImport\obj\Debug\XieHuiImport.pdb
+D:\抓取服务\DataCatchingPro\HY.DataCatching\XieHuiImport\bin\Debug\log4net.dll
+D:\抓取服务\DataCatchingPro\HY.DataCatching\XieHuiImport\bin\Debug\log4net.xml
+D:\抓取服务\DataCatchingPro\HY.DataCatching\XieHuiImport\obj\Debug\HY.XieHuiImport.csprojResolveAssemblyReference.cache
+D:\抓取服务\DataCatchingPro\XieHuiImport\bin\Debug\XieHuiImport.exe.config
+D:\抓取服务\DataCatchingPro\XieHuiImport\obj\Debug\XieHuiImport.exe
+D:\抓取服务\DataCatchingPro\XieHuiImport\obj\Debug\XieHuiImport.pdb
+D:\抓取服务\DataCatchingPro\XieHuiImport\bin\Debug\XieHuiImport.exe
+D:\抓取服务\DataCatchingPro\XieHuiImport\bin\Debug\XieHuiImport.pdb
+D:\抓取服务\DataCatchingPro\XieHuiImport\bin\Debug\log4net.xml
+D:\抓取服务\DataCatchingPro\XieHuiImport\obj\Debug\HY.XieHuiImport.csprojResolveAssemblyReference.cache
