@@ -1,0 +1,11 @@
+D:\code\时光网\HY.SpliderService\bin\Debug\Newtonsoft.Json.dll
+D:\code\时光网\HY.SpliderService\bin\Debug\HtmlAgilityPack.pdb
+D:\code\时光网\HY.SpliderService\bin\Debug\HtmlAgilityPack.xml
+D:\code\时光网\HY.SpliderService\bin\Debug\log4net.xml
+D:\code\时光网\HY.SpliderService\bin\Debug\Newtonsoft.Json.xml
+D:\code\时光网\HY.SpliderService\obj\Debug\HY.SpiderService.csprojResolveAssemblyReference.cache
+D:\code\时光网\HY.SpliderService\bin\Debug\HY.SpiderService.exe.config
+D:\code\时光网\HY.SpliderService\bin\Debug\HY.SpiderService.exe
+D:\code\时光网\HY.SpliderService\bin\Debug\HY.SpiderService.pdb
+D:\code\时光网\HY.SpliderService\obj\Debug\HY.SpiderService.exe
+D:\code\时光网\HY.SpliderService\obj\Debug\HY.SpiderService.pdb
