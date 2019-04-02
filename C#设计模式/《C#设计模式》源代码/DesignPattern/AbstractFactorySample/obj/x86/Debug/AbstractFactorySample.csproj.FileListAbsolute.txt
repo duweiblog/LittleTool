@@ -27,3 +27,6 @@ E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20
 E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\AbstractFactorySample\obj\x86\Debug\AbstractFactorySample.pdb
 E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\AbstractFactorySample\bin\Debug\AbstractFactorySample.exe
 E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\AbstractFactorySample\bin\Debug\AbstractFactorySample.pdb
+D:\GitHub\LittleTool\C#设计模式\《C#设计模式》源代码\DesignPattern\AbstractFactorySample\bin\Debug\AbstractFactorySample.exe.config
+D:\GitHub\LittleTool\C#设计模式\《C#设计模式》源代码\DesignPattern\AbstractFactorySample\obj\x86\Debug\AbstractFactorySample.exe
+D:\GitHub\LittleTool\C#设计模式\《C#设计模式》源代码\DesignPattern\AbstractFactorySample\obj\x86\Debug\AbstractFactorySample.pdb

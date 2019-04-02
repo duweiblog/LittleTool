@@ -2,6 +2,13 @@
 
 namespace CoRSample
 {
+    /// <summary>
+    ///  责任链模式：
+    ///     有多个对象，每个对象都有对下一个对象的引用，这样就形成一条链，
+    ///     请求在这条链上传递，直到某一对象处理该请求。
+    ///  用于：
+    ///     在隐瞒客户的条件下，对系统动态调整
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
