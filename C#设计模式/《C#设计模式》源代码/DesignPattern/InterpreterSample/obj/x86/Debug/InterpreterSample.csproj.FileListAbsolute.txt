@@ -9,3 +9,7 @@ E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20
 E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\InterpreterSample\bin\Debug\InterpreterSample.pdb
 E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\InterpreterSample\obj\x86\Debug\InterpreterSample.exe
 E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\InterpreterSample\obj\x86\Debug\InterpreterSample.pdb
+D:\GitHub\LittleTool\C#设计模式\《C#设计模式》源代码\DesignPattern\InterpreterSample\obj\x86\Debug\InterpreterSample.exe
+D:\GitHub\LittleTool\C#设计模式\《C#设计模式》源代码\DesignPattern\InterpreterSample\obj\x86\Debug\InterpreterSample.pdb
+D:\GitHub\LittleTool\C#设计模式\《C#设计模式》源代码\DesignPattern\InterpreterSample\bin\Debug\InterpreterSample.exe
+D:\GitHub\LittleTool\C#设计模式\《C#设计模式》源代码\DesignPattern\InterpreterSample\bin\Debug\InterpreterSample.pdb

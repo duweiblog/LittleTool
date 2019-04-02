@@ -4,6 +4,9 @@ using System.Collections.Generic;
 
 namespace IteratorSample
 {
+    /// <summary>
+    /// 
+    /// </summary>
     class Program
     {
         /*
