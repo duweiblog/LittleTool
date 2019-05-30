@@ -24,29 +24,29 @@ namespace MementoExtend
         }
 
         //下棋
-        public static void Play(Chessman chess) 
+        public static void Play(Chessman chess)
         {
-		    mc.SetMemento(chess.Save()); //保存备忘录
-		    index ++; 
-		    Console.WriteLine("棋子{0}当前位置为：第{1}行第{2}列。",chess.Label, chess.X, chess.Y);
-	    }
+            mc.SetMemento(chess.Save()); //保存备忘录
+            index++;
+            Console.WriteLine("棋子{0}当前位置为：第{1}行第{2}列。", chess.Label, chess.X, chess.Y);
+        }
 
         //悔棋
-        public static void Undo(Chessman chess, int i) 
+        public static void Undo(Chessman chess, int i)
         {
-		    Console.WriteLine("******悔棋******");
-		    index --; 
-		    chess.Restore(mc.GetMemento(i-1)); //撤销到上一个备忘录
+            Console.WriteLine("******悔棋******");
+            index--;
+            chess.Restore(mc.GetMemento(i - 1)); //撤销到上一个备忘录
             Console.WriteLine("棋子{0}当前位置为：第{1}行第{2}列。", chess.Label, chess.X, chess.Y);
-	    }
+        }
 
         //撤销悔棋
-        public static void Redo(Chessman chess, int i) 
+        public static void Redo(Chessman chess, int i)
         {
-		    Console.WriteLine("******撤销悔棋******");	
-		    index ++; 
-		    chess.Restore(mc.GetMemento(i+1)); //恢复到下一个备忘录
+            Console.WriteLine("******撤销悔棋******");
+            index++;
+            chess.Restore(mc.GetMemento(i + 1)); //恢复到下一个备忘录
             Console.WriteLine("棋子{0}当前位置为：第{1}行第{2}列。", chess.Label, chess.X, chess.Y);
-	    }
+        }
     }
 }

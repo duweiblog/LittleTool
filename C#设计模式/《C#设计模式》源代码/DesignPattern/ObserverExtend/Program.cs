@@ -2,6 +2,10 @@
 
 namespace ObserverExtend
 {
+    /// <summary>
+    /// 观察者模式
+    /// 关注的是变化通知：目标对象发生变化，依赖的对象就能获取相应的通知
+    /// </summary>
     class Program
     {
         public Program(EventTest test)
@@ -28,6 +32,7 @@ namespace ObserverExtend
             EventTest test = new EventTest();
             Program program = new Program(test);
             test.Method();
+            Console.ReadKey();
         }
     }
 }
